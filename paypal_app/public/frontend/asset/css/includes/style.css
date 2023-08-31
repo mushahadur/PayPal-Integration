@@ -335,7 +335,7 @@ a.links,
 a.links-2, 
 a.review-links {
 	background: #293a6c none repeat scroll 0 0;
-	color: #242424;
+	color: #fff;
 	display: inline-block;
 	font-family: Montserrat;
 	font-size: 14px;
@@ -350,11 +350,11 @@ a.review-links {
 }
 a.links:hover,
 a.links-2:hover {
-	background: #333333 none repeat scroll 0 0;
+	background: #293a6c none repeat scroll 0 0;
 	color: #fff;
 }
 a.review-links {
-	background: #242424;
+	background: #293a6c;
 	color: #ffffff;
 	width: 205px;
 	height: 40px;
@@ -373,7 +373,7 @@ a.review-links:hover {
 	color: #fff;
 }
 .text-black {
-	color: #363636;
+	color: #ffffff;
 }
 .text-theme {
 	color: #f10;
